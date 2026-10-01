@@ -3,3 +3,9 @@
 ## Sobre mi
 
 Em dic Pau, tinc 18 anys i actualment curso primer de DAW a la escola Pia De mataró
+
+## Videojocs preferits
+
+- Valorant
+- Fortnite
+- Resident Evil
