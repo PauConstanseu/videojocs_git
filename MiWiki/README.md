@@ -9,3 +9,9 @@ Em dic Pau, tinc 18 anys i actualment curso primer de DAW a la escola Pia De mat
 - Valorant
 - Fortnite
 - Resident Evil
+
+## Pelicules preferides
+
+- Cars
+- Star Wars
+- Fast and Furious
