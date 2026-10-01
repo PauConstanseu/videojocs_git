@@ -15,3 +15,7 @@ Em dic Pau, tinc 18 anys i actualment curso primer de DAW a la escola Pia De mat
 - Cars
 - Star Wars
 - Fast and Furious
+
+ ## Musica
+
+ En quant a música escolto de tot, pero principalment música moderna com reggaeton, trap, etc.
