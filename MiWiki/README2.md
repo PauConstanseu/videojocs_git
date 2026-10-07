@@ -15,6 +15,8 @@ Sóc un estudiant appassionat per la tecnologia i el desenvolupament web, amb in
 - **Outils**: Git, GitHub, Visual Studio Code
 - **Bases de dades**: MySQL, DBngin, Workbench
 
+![python](./img/python.jpeg)
+
 ## 📞 Contacte
 
 - **Email**: alu.pau.constanseu@mataro.epiaedu.cat
@@ -29,6 +31,8 @@ Sóc un estudiant appassionat per la tecnologia i el desenvolupament web, amb in
 | Resident Evil | Horror |
 
 **A Fortnite tinc més de 3500 hores de joc i he guanyat més de 1.000€ en tornejos oficials**
+
+![fortnite](./img/fort.png)
 
 ## 🎬 Pel·lícules Preferides
 
@@ -49,3 +53,7 @@ Alguns dels meus artistes preferits són: JC Reyes, Cano, Clarent, Omar Courtz, 
 - Actualment tinc una moto, una Rieju NKD 125 del 2026
 - Em trobo en procés de treure el carnet de cotxe
 - En un any, amb el carnet A2 de moto, tinc previst comprar-me una moto d'una major cilindrada, uns 700cc.
+
+La meva moto:
+![rieju1](./img/nkd1.jpg)
+![rieju2](./img/nkd2.jpeg)
