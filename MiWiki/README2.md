@@ -57,3 +57,18 @@ Alguns dels meus artistes preferits són: JC Reyes, Cano, Clarent, Omar Courtz, 
 La meva moto:
 ![rieju1](./img/nkd1.jpg)
 ![rieju2](./img/nkd2.jpeg)
+
+## 🌍 Idiomes
+
+- **Català** - Natiu
+- **Castellà** - Natiu
+- **Anglès** - B2
+- **Neerlandes** - Nivell mitjà
+
+## 🎨 Hobbies i Interessos
+
+- Esports en general, com gimnàs, pàdel, futbol...
+- Competició en videojocs
+- Fer rutes en moto
+
+Dedico aproximadament 15 hores setmanals a esports, caps de setmana tornejos online de videojocs...
