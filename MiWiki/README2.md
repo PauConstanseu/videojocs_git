@@ -1,6 +1,8 @@
 # 👋 Benvinguts a la Wiki Personal de Pau
 
-Aquesta és la meva wiki personal on comparteixo informació sobre mi, els meus interessos i els meus projectes.
+> Aquesta és la meva wiki personal on comparteixo informació sobre mi, els meus interessos i els meus projectes.
+
+---
 
 ## 📚 Sobre mi
 
@@ -8,83 +10,164 @@ Em dic **Pau** i tinc 18 anys. Actualment curso **primer de Desenvolupament d'Ap
 
 Sóc un estudiant appassionat per la tecnologia i el desenvolupament web, amb interès en crear solucions creatives i funcionals.
 
+---
+
 ## 💻 Habilitats Tècniques
 
-- **Llenguatges**: Python, HTML...
-- **Frameworks**: DAW 1
-- **Outils**: Git, GitHub, Visual Studio Code
-- **Bases de dades**: MySQL, DBngin, Workbench
+### Llenguatges de Programació
+
+Python █████░░ 50% HTML ████ 30%
+
+### Altres Competències
+| Competència | Nivell |
+|---|---|
+| **Control de versions** | Git, GitHub |
+| **Entorns de desenvolupament** | Visual Studio Code, Visual Studio |
+| **Bases de dades** | MySQL, DBEngine, Workbench |
 
 ![python](./img/python.jpeg)
 
+---
+
 ## 🎓 Formació i Educació
 
-- **Desenvolupament d'Aplicacions Web (DAW)** - Escola Pia de Mataró (2026-2028)
-- **Sistemes microinformàtics i xarxes (SMX)** - Escola Pia de Mataró (2024-2026)
+| Programa | Centre | Anys |
+|---|---|---|
+| 🎯 **Desenvolupament d'Aplicacions Web (DAW)** | Escola Pia de Mataró | 2026-2028 |
+| ✓ **Sistemes Microinformàtics i Xarxes (SMX)** | Escola Pia de Mataró | 2024-2026 |
+
+---
 
 ## 🌍 Idiomes
 
-- **Català** - Natiu
-- **Castellà** - Natiu
-- **Anglès** - B2
-- **Neerlandes** - Nivell mitjà
+| Idioma | Nivell |
+|---|---|
+| 🇪🇸 Català | Natiu |
+| 🇪🇸 Castellà | Natiu |
+| 🇬🇧 Anglès | B2 |
+| 🇳🇱 Neerlandes | Mitjà |
+
+---
 
 ## 🎯 Objectius i Metes
 
-- Completar els estudis de DAW amb excel·lència
-- Crear un portfolio professional amb projectes web destacats
-- Obtenir el carnet de cotxe
-- Comprar una moto de major cilindrada (700cc) en un any
-- Treballar en una empresa de desenvolupament web
+- ✅ Completar els estudis de DAW amb excel·lència
+- 🎯 Crear un portfolio professional amb projectes web destacats
+- 🚗 Obtenir el carnet de cotxe
+- 🏍️ Comprar una moto de major cilindrada (700cc) en un any
+- 💼 Treballar en una empresa de desenvolupament web
+
+---
 
 ## 🎨 Hobbies i Interessos
 
-- **Esports en general**: Gimnàs, pàdel, futbol
-- **Competició en videojocs**: Participació en tornejos online
-- **Rutes en moto**: Explorar noves carreteres i destins
+### 💪 Esports
+- Gimnàs (4-5 dies per setmana)
+- Pàdel (1-2 vegades per setmana)
+- Futbol (ocasionalment)
 
-Dedico aproximadament 15 hores setmanals a esports, i els caps de setmana participo en tornejos online de videojocs.
+### 🎮 Competició en Videojocs
+- Participació regular en tornejos online
+- Membre actiu de comunitats/equips de gamers competitius
+
+### 🏍️ Rutes en Moto
+- Explorar noves carreteres i destins
+- Millora de habilitats de conducció
+
+> **Dedicació**: Dedico aproximadament **15 hores setmanals** a esports, i els **caps de setmana** participo en tornejos online de videojocs.
+
+---
 
 ## 🎮 Videojocs Preferits
 
-| Joc | Gènere |
-|-----|--------|
-| Valorant | Shooter tàctic |
-| Fortnite | Battle Royale |
-| Resident Evil | Horror |
+| Joc | Gènere | Hores |
+|-----|--------|-------|
+| 🏆 **Fortnite** | Battle Royale | 3.500+ |
+| ⚡ **Valorant** | Shooter tàctic | 750+ |
+| 👹 **Resident Evil** | Horror | 200+ |
 
-**Destacat**: A Fortnite tinc més de 3.500 hores de joc i he guanyat més de 1.000€ en tornejos oficials.
+### El meu canal de Youtube
+
+Aquest és el meu canal de YouTube amb alguns videos pujats: [fes click aqui](https://www.youtube.com/@pauetfn)
+
+### 🌟 Destaca't - Fortnite
+
+**Logros i Assoliments:**
+- 🎯 Més de **3.500 hores** de joc competitiu
+- 💰 **Més de 1.000€** guanyats en tornejos oficials
+- 🏅 Participació activa en competicions online
 
 ![fortnite](./img/fort.png)
 
+---
+
 ## 🏍️ Vehicles de Transport
 
-- Actualment tinc una **Rieju NKD 125 del 2026**
-- Em trobo en procés de treure el carnet de cotxe
-- En un any, amb el carnet A2 de moto, tinc previst comprar-me una moto d'una major cilindrada, uns 700cc.
+### 🔴 Actualment
 
-La meva moto:
+**Moto**: Rieju NKD 125 (2026)
+- Model: Motocicleta de tipus naked
+- Cilindrada: 125cc
+- Any: 2026
+
+### 📅 Milestones Propers
+- 🎓 **Carnet de cotxe**: En procés de treure
+- 🏍️ **Moto major**: En un any (A2 / 700cc)
+
+### 📸 La meva moto
 
 ![rieju1](./img/nkd1.jpg)
 ![rieju2](./img/nkd2.jpeg)
 
+---
+
 ## 🎬 Pel·lícules Preferides
 
-- **Cars** - Animació
-- **Star Wars** - Ciència Ficció
-- **Fast and Furious** - Acció
+| Pel·lícula | Gènere | Puntuació |
+|---|---|---|
+| 🏎️ **Cars** | Animació | ⭐⭐⭐⭐⭐ |
+| ⭐ **Star Wars** | Ciència Ficció | ⭐⭐⭐⭐⭐ |
+| 🚗 **Fast and Furious** | Acció | ⭐⭐⭐⭐ |
+
+---
 
 ## 🎵 Música
 
-Escolto una gran varietat de gèneres, amb preferència per la música moderna:
-- Reggaeton
-- Trap
+Escolto una gran varietat de gèneres, amb preferència especial per:
 
-Alguns dels meus artistes preferits són: JC Reyes, Cano, Clarent, Omar Courtz, Hades66...
+### 🎤 Gèneres Favorits
+- **Reggaeton** 🔊
+- **Trap** 🔊
+
+### 🎧 Artistes Preferits
+
+> JC Reyes | Cano | Clarent | Omar Courtz | Hades66
+
+---
 
 ## 📞 Contacte
 
-- **Email**: alu.pau.constanseu@mataro.epiaedu.cat
-- **GitHub**: [https://github.com/PauConstanseu](https://github.com/PauConstanseu)
+### Xarxes i Contacte
+
+| Plataforma | Contacte |
+|---|---|
+| 📧 **Email** | alu.pau.constanseu@mataro.epiaedu.cat |
+| 🐙 **GitHub** | [PauConstanseu](https://github.com/PauConstanseu) |
 
 ---
+
+## 📊 Estadístiques
+
+- **Edat**: 18 anys
+- **Ubicació**: Mataró, Barcelona 🇪🇸
+- **Idiomes**: 4
+
+---
+
+<div align="center">
+
+### ✨ Gràcies per visitar la meva Wiki! ✨
+
+[⬆ Torna al principi](#benvinguts-a-la-wiki-personal-de-pau)
+
+</div>
