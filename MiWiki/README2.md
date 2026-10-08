@@ -17,10 +17,33 @@ Sóc un estudiant appassionat per la tecnologia i el desenvolupament web, amb in
 
 ![python](./img/python.jpeg)
 
-## 📞 Contacte
+## 🎓 Formació i Educació
 
-- **Email**: alu.pau.constanseu@mataro.epiaedu.cat
-- **GitHub**: [https://github.com/PauConstanseu](https://github.com/PauConstanseu)
+- **Desenvolupament d'Aplicacions Web (DAW)** - Escola Pia de Mataró (2026-2028)
+- **Sistemes microinformàtics i xarxes (SMX)** - Escola Pia de Mataró (2024-2026)
+
+## 🌍 Idiomes
+
+- **Català** - Natiu
+- **Castellà** - Natiu
+- **Anglès** - B2
+- **Neerlandes** - Nivell mitjà
+
+## 🎯 Objectius i Metes
+
+- Completar els estudis de DAW amb excel·lència
+- Crear un portfolio professional amb projectes web destacats
+- Obtenir el carnet de cotxe
+- Comprar una moto de major cilindrada (700cc) en un any
+- Treballar en una empresa de desenvolupament web
+
+## 🎨 Hobbies i Interessos
+
+- **Esports en general**: Gimnàs, pàdel, futbol
+- **Competició en videojocs**: Participació en tornejos online
+- **Rutes en moto**: Explorar noves carreteres i destins
+
+Dedico aproximadament 15 hores setmanals a esports, i els caps de setmana participo en tornejos online de videojocs.
 
 ## 🎮 Videojocs Preferits
 
@@ -30,9 +53,20 @@ Sóc un estudiant appassionat per la tecnologia i el desenvolupament web, amb in
 | Fortnite | Battle Royale |
 | Resident Evil | Horror |
 
-**A Fortnite tinc més de 3500 hores de joc i he guanyat més de 1.000€ en tornejos oficials**
+**Destacat**: A Fortnite tinc més de 3.500 hores de joc i he guanyat més de 1.000€ en tornejos oficials.
 
 ![fortnite](./img/fort.png)
+
+## 🏍️ Vehicles de Transport
+
+- Actualment tinc una **Rieju NKD 125 del 2026**
+- Em trobo en procés de treure el carnet de cotxe
+- En un any, amb el carnet A2 de moto, tinc previst comprar-me una moto d'una major cilindrada, uns 700cc.
+
+La meva moto:
+
+![rieju1](./img/nkd1.jpg)
+![rieju2](./img/nkd2.jpeg)
 
 ## 🎬 Pel·lícules Preferides
 
@@ -48,27 +82,9 @@ Escolto una gran varietat de gèneres, amb preferència per la música moderna:
 
 Alguns dels meus artistes preferits són: JC Reyes, Cano, Clarent, Omar Courtz, Hades66...
 
-## 🏍️ Transport
+## 📞 Contacte
 
-- Actualment tinc una moto, una Rieju NKD 125 del 2026
-- Em trobo en procés de treure el carnet de cotxe
-- En un any, amb el carnet A2 de moto, tinc previst comprar-me una moto d'una major cilindrada, uns 700cc.
+- **Email**: alu.pau.constanseu@mataro.epiaedu.cat
+- **GitHub**: [https://github.com/PauConstanseu](https://github.com/PauConstanseu)
 
-La meva moto:
-![rieju1](./img/nkd1.jpg)
-![rieju2](./img/nkd2.jpeg)
-
-## 🌍 Idiomes
-
-- **Català** - Natiu
-- **Castellà** - Natiu
-- **Anglès** - B2
-- **Neerlandes** - Nivell mitjà
-
-## 🎨 Hobbies i Interessos
-
-- Esports en general, com gimnàs, pàdel, futbol...
-- Competició en videojocs
-- Fer rutes en moto
-
-Dedico aproximadament 15 hores setmanals a esports, caps de setmana tornejos online de videojocs...
+---
