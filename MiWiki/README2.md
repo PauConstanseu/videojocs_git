@@ -145,6 +145,30 @@ Escolto una gran varietat de gèneres, amb preferència especial per:
 
 ---
 
+# Els meus objectius futurs
+
+## 🎯 Objectius personals
+
+1. **Millorar la meva organització personal:** aprendre a gestionar millor el temps i organitzar les meves tasques per complir els meus objectius.
+2. **Mantenir un estil de vida saludable:** cuidar la meva alimentació, fer esport regularment i millorar la meva condició física.
+3. **Continuar creixent com a persona:** guanyar confiança en mi mateix, ser més independent i aprendre coses noves constantment.
+
+## 💻 Objectius professionals
+
+1. **Acabar el grau superior de DAW:** adquirir els coneixements necessaris per convertir-me en un bon professional de la informàtica.
+2. **Millorar els meus coneixements de programació i ciberseguretat:** aprendre Python a un nivell més avançat i aprofundir en la seguretat informàtica.
+3. **Treballar en el sector de la informàtica:** aconseguir una feina relacionada amb els meus estudis, adquirir experiència professional i continuar formant-me per créixer laboralment.
+
+## 🌐 Web per aprendre
+
+**[W3Schools](https://www.w3schools.com)**
+
+És una pàgina web que em pot ajudar a aprendre i practicar Python, HTML, CSS, SQL i altres tecnologies, amb exemples senzills i exercicis pràctics.
+
+## 💬 Una frase que em representa
+
+**Aprendre constantment, superar els meus límits i construir el meu futur amb esforç i dedicació.**
+
 ## 📞 Contacte
 
 ### Xarxes i Contacte
